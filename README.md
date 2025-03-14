@@ -3,7 +3,7 @@
 🚀 A responsive and interactive **Portfolio Website** showcasing my projects, skills, and experiences. Built with **HTML, CSS, and JavaScript** and hosted on **Firebase**.
 
 ## 🔗 Live Demo
-[View Portfolio](YOUR_FIREBASE_HOSTING_URL_HERE)
+[View Portfolio](https://sadmaanportfolio.web.app)
 
 ---
 
